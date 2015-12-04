@@ -28,7 +28,7 @@ int i;
                        for(int k=0;k<i;k++)
                        cout<<" *";
                        cout<<endl;
-
+       //test changed
 
         return 0;
        }
