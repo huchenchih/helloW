@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    for(int i=0;i<20;i++)cout << i*i << endl;
     return 0;
 }
